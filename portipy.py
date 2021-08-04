@@ -1,5 +1,5 @@
 #!usr/bin/python3
-#Portipy - a nmap based network and port scanner made with python
+#Portipy - a port scanner made with python
 
 # IMPORTING MODULES
 import socket #pip3 install socket
